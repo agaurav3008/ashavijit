@@ -1,5 +1,5 @@
 
-<a href="https://github.com/ashavijit"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=ashavijit&style=flat-square" width="125"/></a>
+<a href="https://github.com/agaurav3008"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=agaurav3008&style=flat-square" width="125"/></a>
 
 
 <h1 align="left">Hey there, I'm <a href="https://github.com/ashavijit/">Avijit </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
@@ -139,7 +139,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ashavijit&theme=city-lights&hide_border=true&date_format=%5BY.%5Dn.j&stroke=53DD25&currStreakNum=DD2727&dates=DD30A9" align="left" style="width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=agaurav3008&theme=city-lights&hide_border=true&date_format=%5BY.%5Dn.j&stroke=53DD25&currStreakNum=DD2727&dates=DD30A9" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
